@@ -23,7 +23,7 @@ module.exports = {
             // gasPrice: 130000000000,
         },
         sepolia: {
-            url: GOERLI_RPC_URL,
+            url: SEPOLIA_RPC_URL,
             accounts: [PRIVATE_KEY],
             chainId: 11155111,
             blockConfirmations: 6,
