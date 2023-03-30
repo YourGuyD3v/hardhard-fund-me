@@ -35,7 +35,7 @@
 ## Quickstart
 
 ```
-git clone https://github.com/YourGuyD3v/hardhard-fund-me.git
+git clone https://github.com/YourGuyD3v/hardhat-fund-me.git
 cd hardhat-fund-me
 yarn
 ```
